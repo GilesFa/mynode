@@ -1,1 +1,1 @@
-console.log("This is test docker.")
+console.log("This is test docker. v2")
